@@ -1,0 +1,86 @@
+[
+  {
+    "request_id": "ccf52ffc5485",
+    "inspected_at": "2026-09-15T18:28:22",
+    "service_version": "day10-service-v1.0",
+    "inspection_module": "day06_ocr",
+    "rule_version": "day06-ocr-v1.0",
+    "file_name": "0637145699424_side.png",
+    "measurements": {
+      "ocr_text": "0637145699424",
+      "expected_text": "0637145699424",
+      "pattern_ok": true,
+      "expected_match": true
+    },
+    "final_decision": "OK",
+    "reasons": []
+  },
+  {
+    "request_id": "5ee45836450c",
+    "inspected_at": "2026-09-15T18:34:22",
+    "service_version": "day10-service-v1.0",
+    "inspection_module": "day06_ocr",
+    "rule_version": "day06-ocr-v1.0",
+    "file_name": "0679256889404_side.png",
+    "measurements": {
+      "ocr_text": "0679256889404",
+      "expected_text": "0679256889400",
+      "pattern_ok": true,
+      "expected_match": false
+    },
+    "final_decision": "NG",
+    "reasons": [
+      "NG_EXPECTED_MISMATCH"
+    ]
+  },
+  {
+    "request_id": "705c165c2cdd",
+    "inspected_at": "2026-09-15T18:35:46",
+    "service_version": "day10-service-v1.0",
+    "inspection_module": "day06_ocr",
+    "rule_version": "day06-ocr-v1.0",
+    "file_name": "0637145699424_side.png",
+    "measurements": {
+      "ocr_text": "0637145699424",
+      "expected_text": "0637145699424",
+      "pattern_ok": true,
+      "expected_match": true
+    },
+    "final_decision": "OK",
+    "reasons": []
+  },
+  {
+    "request_id": "790d2d2dc9e4",
+    "inspected_at": "2026-09-15T18:56:36",
+    "service_version": "day10-service-v1.0",
+    "inspection_module": "day06_ocr",
+    "rule_version": "day06-ocr-v1.0",
+    "file_name": "0637145699424_side.png",
+    "measurements": {
+      "ocr_text": "0637145699424",
+      "expected_text": "0637145699424",
+      "pattern_ok": true,
+      "expected_match": true
+    },
+    "final_decision": "OK",
+    "reasons": []
+  },
+  {
+    "request_id": "5391358caaab",
+    "inspected_at": "2026-09-15T18:57:04",
+    "service_version": "day10-service-v1.0",
+    "inspection_module": "day06_ocr",
+    "rule_version": "day06-ocr-v1.0",
+    "file_name": "0679256889404_side.png",
+    "measurements": {
+      "ocr_text": "0679256889404",
+      "expected_text": "0679256889400",
+      "pattern_ok": true,
+      "expected_match": false
+    },
+    "final_decision": "NG",
+    "reasons": [
+      "NG_EXPECTED_MISMATCH"
+    ]
+  }
+]
